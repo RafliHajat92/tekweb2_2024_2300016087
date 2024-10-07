@@ -1,0 +1,16 @@
+/* Gaya untuk main section */
+main {
+    margin: 20px 0;
+}
+
+/* Gaya untuk section */
+section {
+    background-color: #e40000;
+    border: 1px solid #e50000;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Gaya untuk h2 di dalam section */
+section h2 {
+     color: #444;
